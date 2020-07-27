@@ -1,5 +1,5 @@
 import os
 import time
 
-sleep.time(5)
+time.sleep(5)
 print ("Hello World")
